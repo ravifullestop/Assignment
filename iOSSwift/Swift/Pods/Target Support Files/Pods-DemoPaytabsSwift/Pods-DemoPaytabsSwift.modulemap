@@ -1,0 +1,6 @@
+framework module Pods_DemoPaytabsSwift {
+  umbrella header "Pods-DemoPaytabsSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
