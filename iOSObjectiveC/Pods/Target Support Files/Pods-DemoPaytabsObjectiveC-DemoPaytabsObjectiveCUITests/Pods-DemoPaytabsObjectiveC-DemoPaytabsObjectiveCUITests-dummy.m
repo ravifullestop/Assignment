@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_DemoPaytabsObjectiveC_DemoPaytabsObjectiveCUITests : NSObject
+@end
+@implementation PodsDummy_Pods_DemoPaytabsObjectiveC_DemoPaytabsObjectiveCUITests
+@end

@@ -1,0 +1,6 @@
+framework module Pods_DemoPaytabsObjectiveC {
+  umbrella header "Pods-DemoPaytabsObjectiveC-umbrella.h"
+
+  export *
+  module * { export * }
+}
